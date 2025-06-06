@@ -6,6 +6,10 @@
     color: #4926e4;
     font-size: 36px;
 }
+#custom-number-green {
+    background-color: #30ee59;
+    font-weight: bold;
+}
 .font-medium {
     font-size: 24px;
 }
